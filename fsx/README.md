@@ -1,6 +1,6 @@
 # AWS FSx: File Storage for the Cloud
 
-![FSx Image](./images/fsx_image.png)
+![FSx Image](./images/fsx.jpeg)
 
 ## Overview
 AWS FSx provides fully managed file storage that is optimized for a variety of workloads. It offers multiple file systems to suit different use cases, high performance, and seamless integration with other AWS services.
